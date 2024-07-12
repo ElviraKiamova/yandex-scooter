@@ -1,0 +1,42 @@
+
+.access {
+  position: relative;
+ }
+
+ @media (max-width: 1410px) {
+  .access {
+    display: flex;
+    flex-direction: column;
+   }
+}
+
+
+@media (max-width: 1350px) {
+  .access {
+    width: 836px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .access {
+    width: 650px;
+  }
+}
+
+@media (max-width:900px) {
+  .access {
+    width: 474px;
+  }
+}
+
+@media (max-width:750px) {
+  .access {
+    width: 640px;
+  }
+}
+
+@media (max-width:650px) {
+  .access {
+    width: 344px;
+  }
+}

@@ -1,0 +1,13 @@
+
+
+.season-ticket__img:nth-child(1) {
+  width: 282px;
+  height: 392px;
+  margin: 0 186px 0 0;
+ }
+
+.season-ticket__img:nth-child(2) {
+  position: absolute;
+  top: -60px;
+  left: -125px;
+ }

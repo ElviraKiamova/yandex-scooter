@@ -1,0 +1,11 @@
+
+.plus__img {
+  position: absolute;
+  top: -235px;
+  right: -760px;
+ }
+
+ .plus__img:last-child {
+  top: 55px;
+  right: -350px;
+ }

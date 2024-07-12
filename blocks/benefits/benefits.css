@@ -1,0 +1,6 @@
+
+.benefits {
+  display: flex;
+  flex-direction: column;
+}
+

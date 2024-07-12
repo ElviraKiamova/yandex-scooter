@@ -1,0 +1,55 @@
+@import url("./assets/fonts/fonts.css");
+
+@import url("./blocks/body/body.css");
+@import url("./blocks/page/page.css");
+@import url("./blocks/content/content.css");
+
+@import url("./blocks/header/header.css");
+@import url("./blocks/header/header__container/header__container.css");
+@import url("./blocks/header/header__icon/header__icon.css");
+@import url("./blocks/header/header__title/header__title.css");
+@import url("./blocks/header/header__scooter-egg/header__scooter-egg.css");
+@import url("./blocks/header/header__words-around/header__words-around.css");
+
+@import url("./blocks/button/button.css");
+@import url("./blocks/button/button_ticket/button_ticket.css");
+
+@import url("./blocks/text/text.css");
+@import url("./blocks/text/text_plus/text_plus.css");
+@import url("./blocks/text/text_price/text_price.css");
+@import url("./blocks/text/text_price-active/text_price-active.css");
+@import url("./blocks/text/text_price-old/text_price-old.css");
+@import url("./blocks/text/text_little/text_little.css");
+@import url("./blocks/text/text_access/text_access.css");
+
+@import url("./blocks/subtitle/subtitle.css");
+@import url("./blocks/subtitle/subtitle_little/subtitle_little.css");
+@import url("./blocks/subtitle/subtitle_indent/subtitle_indent.css");
+@import url("./blocks/subtitle/subtitle_width/subtitle_width.css");
+
+@import url("./blocks/benefits/benefits.css");
+@import url("./blocks/benefits/benefits_indent/benefits_indent.css");
+@import url("./blocks/benefits/benefits__img/benefits__img.css");
+@import url("./blocks/benefits/benefits__item/benefits__item.css");
+@import url("./blocks/benefits/benefits__list/benefits__list.css");
+
+@import url("./blocks/access/access.css");
+@import url("./blocks/access/access__box/access__box.css");
+@import url("./blocks/access/access_indent/access_indent.css");
+@import url("./blocks/access/access__photo/access__photo.css");
+@import url("./blocks/access/access__picture/access__picture.css");
+
+@import url("./blocks/plus/plus.css");
+@import url("./blocks/plus/plus_indent/plus_indent.css");
+@import url("./blocks/plus/plus__img/plus__img.css");
+
+@import url("./blocks/season-ticket/season-ticket.css");
+@import url("./blocks/season-ticket/season-ticket_indent/season-ticket_indent.css");
+@import url("./blocks/season-ticket/season-ticket__box/season-ticket__box.css");
+@import url("./blocks/season-ticket/season-ticket__img/season-ticket__img.css");
+@import url("./blocks/season-ticket/season-ticket__button/season-ticket__button.css");
+
+
+@import url("./blocks/footer/footer.css");
+@import url("./blocks/footer/footer__text/footer__text.css");
+@import url("./blocks/footer/footer__link/footer__link.css");

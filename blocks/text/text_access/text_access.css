@@ -1,0 +1,13 @@
+
+.text_access {
+  position: absolute;
+  width: 442px;
+ }
+
+
+ 
+ @media (max-width: 1410px) {
+  .text_access {
+    position: relative;
+   }
+}

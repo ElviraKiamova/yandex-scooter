@@ -1,0 +1,22 @@
+
+.access__box {
+  position: relative;
+  left: -15px;
+  height: 1165px;
+  margin-top: 80px;
+  transform: rotate(2deg);
+  display: grid;
+  grid-template-columns: repeat(2, 450px);
+  grid-template-rows: repeat(2, 450px);
+  gap: 30px;
+ }
+
+ @media (max-width: 1410px) {
+  .access__box {
+    grid-template-columns: repeat(1, 344px);
+    grid-template-rows: repeat(1, 344px);
+    height: auto;
+    margin-top: 47px;
+    transform: rotate(0deg);
+  }
+}

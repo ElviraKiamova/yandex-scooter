@@ -1,0 +1,35 @@
+
+.text_price-active {
+  position: relative;
+  z-index: 0;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 2px 12px;
+  color: #2E2C21;
+  font-size: 24px;
+  line-height: 120%;
+  border-radius: 500px;
+ }
+
+
+ .text_price-active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 500px;
+  background: radial-gradient(141.42% 141.42% at 100% 0%, #E0B8FF 0%, #B6B9FF 100%);
+  z-index: -1;
+}
+
+
+@media (max-width: 900px) {
+  .text_price-active {
+    font-size: 18px;
+    padding: 1px 8px;
+  }
+}

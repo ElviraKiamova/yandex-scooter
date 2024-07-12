@@ -1,0 +1,19 @@
+
+.access_indent {
+  margin: 0 0 104px 262px;
+ }
+
+
+ @media (max-width: 1350px) {
+  .access_indent {
+    margin: 0 100px 100px;
+  }
+}
+
+@media (max-width: 750px) {
+  .access_indent {
+    margin: 0 auto;
+  }
+}
+
+

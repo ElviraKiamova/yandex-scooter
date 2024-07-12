@@ -1,0 +1,7 @@
+
+ @media (max-width: 650px) {
+  .benefits__item {
+    display: flex;
+    align-items: center;
+  }
+}

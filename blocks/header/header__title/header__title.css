@@ -1,0 +1,37 @@
+
+.header__title {
+  position: relative;
+  z-index: 1;
+  width: 420px;
+  margin: 55px 0 0;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 100%;
+  letter-spacing: -3px;
+ }
+
+
+ @media (max-width: 1350px) {
+  .header__title {
+    width: 620px;
+  }
+}
+
+
+@media (max-width: 900px) {
+  .header__title {
+    width: 570px;
+    margin: 32px 0 0;
+    font-size: 36px;
+    letter-spacing: -0.72px;
+  }
+}
+
+
+
+@media (max-width: 650px) {
+  .header__title {
+    width:220px;
+    margin: 27px 0 0;
+  }
+}

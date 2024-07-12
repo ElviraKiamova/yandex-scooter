@@ -1,0 +1,37 @@
+
+.header__words-around {
+  position: absolute;
+  top: 270px;
+  right: 200px;
+ }
+
+ @media (max-width: 1350px) {
+  .header__words-around {
+    top: 800px;
+    left: 180px;
+  }
+}
+
+@media (max-width: 900px) {
+  .header__words-around {
+    width: 82px;
+    height: 82px;
+    top: 440px;
+    left: 335px;
+  }
+}
+
+@media (max-width: 700px) {
+  .header__words-around {
+    top: 340px;
+    left: 335px;
+  }
+}
+
+@media (max-width: 650px) {
+  .header__words-around {
+    top: 405px;
+    left: 110px;
+  }
+}
+

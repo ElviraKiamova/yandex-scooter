@@ -1,0 +1,14 @@
+
+.header {
+  width: 100%;
+  max-width: 1440px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 100%);
+ }
+
+ @media (max-width: 900px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

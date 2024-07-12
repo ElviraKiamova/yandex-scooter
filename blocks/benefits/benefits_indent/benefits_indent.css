@@ -1,0 +1,17 @@
+
+.benefits_indent {
+  margin: 0 0 125px 262px;
+ }
+
+
+ @media (max-width: 1350px) {
+  .benefits_indent {
+    margin: 0 100px 100px;
+  }
+}
+
+@media (max-width: 900px) {
+  .benefits_indent {
+    margin: 0 0 72px 0;
+  }
+}

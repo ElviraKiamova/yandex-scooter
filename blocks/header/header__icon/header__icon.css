@@ -1,0 +1,13 @@
+
+.header__icon {
+  width: 180px;
+  height: 52px;
+ }
+
+ @media (max-width: 900px) {
+  .header__icon {
+    width: 112px;
+    height: 32px;
+  }
+}
+
